@@ -11,6 +11,12 @@ This project analyzes customer data to explore the relationship between customer
 
 The objective is to help decision-makers better understand customer churn patterns, identify potentially vulnerable customer segments, and develop data-driven retention strategies.
 
+
+## Dashboard Preview
+*An interactive Power BI dashboard exploring customer churn patterns, customer characteristics, and retention opportunities.*
+![Dashboard](Bank_churn_analytics_screenshot.png)
+
+
 ## Business Problem
 
 The bank needs to understand which customer characteristics are associated with churn and how customer data can support more effective retention decisions.
@@ -94,9 +100,6 @@ Other variables, including tenure, number of products, credit card ownership, an
 ## Conclusion
 
 This project demonstrates how customer data can be explored and visualized to identify potential churn indicators and support customer retention decisions.
-
-## Dashboard
-![Dashboard](Bank_churn_analytics_screenshot.png)
 
 
 ## Project Deliverables
