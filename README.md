@@ -95,6 +95,9 @@ Other variables, including tenure, number of products, credit card ownership, an
 
 This project demonstrates how customer data can be explored and visualized to identify potential churn indicators and support customer retention decisions.
 
+## Dashboard
+![Dashboard](Bank_churn_analytics_screenshot)
+
 
 ## Project Deliverables
 
